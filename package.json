@@ -1,0 +1,27 @@
+{
+  "name": "nhan-3-so-kimngannnnnn",
+  "version": "1.0.3",
+  "description": "kimngannnnnn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimngannnnnn/nhan-3-so-kimngannnnnn.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "kimngannnnnn",
+  "license": "ISC",
+  "dependencies": {
+    "@lananhxcnm130/lananh-async-storage": "0.0.1",
+    "tinhdv-face-api.js": "0.22.5",
+    "timsolonnhat-tinhs2cop": "1.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/kimngannnnnn/nhan-3-so-kimngannnnnn/issues"
+  },
+  "homepage": "https://github.com/kimngannnnnn/nhan-3-so-kimngannnnnn#readme"
+}
